@@ -1,4 +1,7 @@
-![{4B2C428E-01B3-4C52-A704-C4C1C60CCB07}](https://github.com/user-attachments/assets/d0953f19-a38c-4323-9fae-c985ef7a161c)# kibana-Dashboard-using-ELK-Stack
+# kibana-Dashboard-using-ELK-Stack
+![image](https://github.com/user-attachments/assets/2bff2472-7377-407f-8e33-c371215d3022)
+![image](https://github.com/user-attachments/assets/3aea4751-6e05-474a-8448-d7a371c5230f)
+
 🧩 Project Title:
 Building a Kibana Dashboard with Elasticsearch Queries on Web Logs using ELK Stack
 
