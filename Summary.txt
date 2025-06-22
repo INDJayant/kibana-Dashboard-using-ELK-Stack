@@ -1,0 +1,3 @@
+📄 Project Summary Kibana Dashboard with ELK Stack
+This project demonstrates the creation of a real-time log monitoring and analytics dashboard using the ELK Stack — Elasticsearch, Logstash, and Kibana. A sample JSON log dataset (sample_logs.json) containing HTTP request data was processed and visualized to extract actionable insights. The project walks through setting up the stack, parsing and indexing the data with Logstash, querying it with Elasticsearch, and building interactive visualizations in Kibana.
+
